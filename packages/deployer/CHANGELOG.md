@@ -1,5 +1,11 @@
 # @mastra/deployer
 
+## 0.3.0-alpha.7
+
+### Patch Changes
+
+- 735ead7: Add support for process.env.development
+
 ## 0.3.0-alpha.6
 
 ### Patch Changes
